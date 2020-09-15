@@ -1,6 +1,6 @@
 ## Welcome to my world!
 
-Watch [me](https://github.com/LaraEvdokimova/photo/blob/master/photo.JPG).
+Watch [me](https://github.com/LaraEvdokimova/photo/blob/master/photo.JPG?raw=true) :)
 [Link](https://github.com/LaraEvdokimova/photo/blob/master/photo.JPG?raw=true) and ![Image](src)
 
 ### Support or Contact
