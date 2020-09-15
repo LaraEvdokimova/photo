@@ -1,2 +1,1 @@
-# photo
-just a photo
+https://github.com/LaraEvdokimova/photo/blob/master/photo.JPG
